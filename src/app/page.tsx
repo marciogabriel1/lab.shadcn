@@ -47,11 +47,13 @@ export default function MyApp() {
         <Button className='w-full' onClick={() => router.push('/dashboard')}>
           Entrar
         </Button>
+
       </Flex>
 
     </Flex >
     
   </Card>
+  
   </Flex>
   );
 }
